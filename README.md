@@ -10,3 +10,12 @@ following points in mind when on the JavaScript Air show:
   alternate opinions.
 - Hopefully I don't have a reason to add anything else here...
 
+We also encourage participants follow The Recurse Center's
+[Social Rules](https://www.recurse.com/manual#sub-sec-social-rules)
+as far as they apply to this live video broadcast podcast:
+
+- No feigning surprise
+- No well-actually's
+- No back-seat driving
+- No subtle -isms
+
